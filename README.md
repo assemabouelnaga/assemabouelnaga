@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Assem</h1>
 <h3 align="center">A software developer with an end goal of working on the team of one of my favorite MMO games.</h3>
 
-- 🌱 I’m currently learning **JavaScript, react, nodejs, bootstrap, mongoDB**
+- 🌱 I’m currently learning **JavaScript, react, nodejs, bootstrap, and more...**
 
 - 📫 How to reach me **abouelnagaassem@gmail.com**
 
