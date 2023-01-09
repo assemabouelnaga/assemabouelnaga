@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Assem</h1>
-<h3 align="center">A software developer with an end goal of working on the team of one of my favorite MMO games.</h3>
+<h3 align="center">A software developer working on fullstack web applications. Deeply interested in working on a team of one of my favorite MMO games.</h3>
 
 - 🌱 I’m currently learning **JavaScript, react, nodejs, bootstrap, and more...**
 
