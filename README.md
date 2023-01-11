@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Assem</h1>
-<h3 align="center">A software developer working on fullstack web applications. Deeply interested in working on a team of one of my favorite MMO games.</h3>
+<h3 align="center">A software developer working on fullstack web applications. Looking to work with teams to develop and maintain applications that provide meaningful quality of life improvements and novel experiences for users. Also deeply interested in becoming part of a team and working of one of my favorite MMO games.</h3>
 
-- 🌱 I’m currently learning **JavaScript, react, nodejs, bootstrap, and more...**
+- 🌱 I’m currently learning **JavaScript, react, nodejs, bootstrap, SQL, and more...**
 
 - 📫 How to reach me **abouelnagaassem@gmail.com**
 
